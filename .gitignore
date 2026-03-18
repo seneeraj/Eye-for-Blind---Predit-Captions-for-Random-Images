@@ -1,0 +1,43 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Environment
+
+venv/
+env/
+*.env
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Large files
+
+*.h5
+*.hdf5
+*.pkl
+*.ckpt
+*.index
+*.data-00000-of-00001
+
+# Dataset
+
+Images/
+*.zip
+
+# Audio
+
+*.mp3
