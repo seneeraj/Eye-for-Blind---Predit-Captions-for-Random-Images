@@ -1,10 +1,4 @@
-Perfect 👏 — now we’ll make your project **GitHub-ready** with all essential files.
-
-You can copy-paste each of these directly.
-
----
-
-# 📄 1️⃣ README.md
+# 1️⃣ README.md
 
 # 👁️ Eye for the Blind – AI Image Captioning System
 
