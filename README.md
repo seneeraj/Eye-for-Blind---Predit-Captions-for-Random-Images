@@ -1,4 +1,4 @@
-# README.md
+# READ ME
 
 # 👁️ Eye for the Blind – AI Image Captioning System
 
